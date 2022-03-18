@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="images/stonks.png" type="images/png"/>
